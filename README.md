@@ -1,6 +1,6 @@
 # FG_22_GameLoop
 
-Second project for the Future Games course "Game Programming with C#" in 2022.
+Third project for the Future Games course "Game Programming with C#" in 2022.
 
 ## Topics Covered
 
